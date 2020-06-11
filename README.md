@@ -33,7 +33,8 @@ Una implementaci√≥n completa y funcional del juego del boliche, la implementaci√
 - Incluir pruebas (TDD)
 
 ## Enlaces
-- [The (written) unwritten guide to pull requests]()
-- [Best practices for pull requests]()
-- [BEST PRACTICES ON DOING PULL REQUESTS]()
-- [Coding Dojo: Bowling]()
+- [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+- [Best practices for pull requests](https://github.community/t/best-practices-for-pull-requests/10195)
+- [BEST PRACTICES ON DOING PULL REQUESTS](https://holgerfrohloff.de/best-practices-on-doing-pull-requests/)
+- [What every reviewer would like to see in your next Pull Request](https://nebulab.it/blog/what-every-reviewer-would-like-to-see-in-your-next-pull-request/?utm_content=bufferbd023&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Coding Dojo: Bowling](https://codingdojo.org/kata/Bowling/)
