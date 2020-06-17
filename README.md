@@ -41,6 +41,20 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
   - Debe actualizar el archivo [setup.md](pre-requisito/setup.md) en donde se describa el proceso para hacer funcionar el proyecto
   - Los commits de Git deben ser atómicos y significativos
   - Cada Pull request asociado a una funcionalidad
+  
+## Evaluación / Revisión
+En sus valoraciones los mentores considaran los siguientes aspectos:
+- Orientación a objetos
+- Estructura de archivos
+- Pruebas
+- Código duplicado
+- Separación de intereses (separation of concerns)
+- Convenciones del lenguaje
+- Claridad de la solución
+- Abstracción
+- Uso de características propias del lenguaje ruby
+- Uso de Git, commits bien definidos y atómicos, pull requests por funcionalidad
+- Puntuación obtenida en RubyCritic
 
 ## Resumen 
 - Tienes un máximo de 5 días para implementar el algortitmo de el Juego de Boliche
