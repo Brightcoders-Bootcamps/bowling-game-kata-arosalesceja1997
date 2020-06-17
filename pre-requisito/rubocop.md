@@ -1,4 +1,4 @@
-![rubocop](../img/rubocop.svg)
+![rubocop](../img/rubo-logo.png)
 # Rubocop
 
 Rubocop es un verificador de estilos (linter) para Ruby que se basa en la [guía de estilo](https://rubystyle.guide/) que es dirigida por la comunidad que utiliza este lenguaje.
