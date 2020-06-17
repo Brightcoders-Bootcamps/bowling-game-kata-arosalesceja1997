@@ -1,4 +1,4 @@
-<!--- PR Title: What changed/implement in this PR? -->
+<!--- PR Title: What changed/implement in this PR -->
 <!--- Be specific, don't write a generic title please --> 
  
 ## Description: Why did you change/implement that?
