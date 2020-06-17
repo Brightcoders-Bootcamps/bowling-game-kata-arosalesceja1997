@@ -75,8 +75,8 @@ En [este elnace](pre-requisito/setup.md) se describen los pasos necesarios para 
 
 ## Enlaces
 ### Commits
-- [https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
-- [https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
+- [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
+- [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 ### Pull Requests
 - [One Pull Request. One Concern](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
