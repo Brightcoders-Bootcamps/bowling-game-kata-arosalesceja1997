@@ -29,11 +29,11 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 - Código fuente
   - Orientado a Objetos 
   - Métodos Pequeños
-  - Principio de responsibilidad única (Single responsibility principle)
+  - [Aplicar los principios SOLID](https://rubygarage.org/blog/solid-principles-of-ood)
 
 ## Tecnologías
 - Lenguaje de programación Ruby
-- Framework para pruebas Rspec
+- Framework para pruebas [Rspec](https://rspec.info/)
 - Línea de comando
 
 ## Entregable
@@ -47,7 +47,7 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 - Durante el proceso de desarrollo debes mantener actualizado este repositorio
 - Lo harás en entregas parciales realizando PULL REQUESTS
  - Cada pull request debe incluir una funcionalidad
- - Los commits deben ser significativos
+ - [Los commits deben ser significativos](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4)
  - [Cada Pull request asociado a una funcionalidad](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
  - Debes compartir en #support tus pull requests para que los mentores te hagan code review
  - Se requiere por lo menos la aprobación de 1 mentor para hacer merge
@@ -61,11 +61,23 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 En [este elnace](pre-requisito/setup.md) se describen los pasos necesarios para ejecutar/probar este proyecto.
 
 ## Enlaces
+### Commits
+- [https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
+- [https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+### Pull Requests
 - [One Pull Request. One Concern](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
 - [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
 - [Best practices for pull requests](https://github.community/t/best-practices-for-pull-requests/10195)
 - [BEST PRACTICES ON DOING PULL REQUESTS](https://holgerfrohloff.de/best-practices-on-doing-pull-requests/)
 - [What every reviewer would like to see in your next Pull Request](https://nebulab.it/blog/what-every-reviewer-would-like-to-see-in-your-next-pull-request/?utm_content=bufferbd023&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+### The Bowling Game
 - [Coding Dojo: Bowling](https://codingdojo.org/kata/Bowling/)
+### Tools
 - [Rubocop](https://rubocop.org/)
 - [Rubycritic](https://github.com/whitesmith/rubycritic) 
+- [Rspec](https://rspec.info/)
+### Solid Principles
+- [SOLID Object-Oriented Design Principles with Ruby Examples](https://rubygarage.org/blog/solid-principles-of-ood)
+- [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid)
+- [SOLID Principles](https://www.netguru.com/codestories/solid-principles-1-single-responsibility-principle) 
