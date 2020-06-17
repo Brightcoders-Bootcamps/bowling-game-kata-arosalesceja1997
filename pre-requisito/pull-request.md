@@ -36,6 +36,7 @@ La forma de trabajar con Pull Request es la siguiente:
 - Una vez que te hagan observaciones da seguimiento a ellas y resuelvelas.
 - Cuando tengas la aprobación de por lo menos uno de los mentores podrás hacer merge
 
+## Recursos
 Para conocer más sobre como trabajar tus commits y pull requests es recomendable que leas lo siguientes enlaces:
 - [GIWorkflow de desarrollo en GitHub](https://medium.com/@itdo_solutions/workflow-de-desarrollo-en-github-859a5b86c20a)
 - [BEST PRACTICES ON DOING PULL REQUESTS](https://holgerfrohloff.de/best-practices-on-doing-pull-requests/)
