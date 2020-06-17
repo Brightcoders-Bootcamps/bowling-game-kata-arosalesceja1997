@@ -7,9 +7,9 @@
 
 Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 
-- [Pull request)[pre-requisito/pull-request.md]
-- (Rubocop)[pre-requisito/rubocop.md]
-- (Rubycritic)[pre-requisito/rubycritic.md]
+- [Pull request](pre-requisito/pull-request.md)
+- [Rubocop](pre-requisito/rubocop.md)
+- [Rubycritic](pre-requisito/rubycritic.md)
 
 ## Requerimientos funcionales
 ![Bowling score](img/bowling.png) 
