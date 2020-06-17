@@ -1,5 +1,5 @@
-# Pull Request
 ![pull request](../img/pull-request.jpg)
+# Pull Request
 
 Esta vez la dinámica de trabajo va a ser diferente, vamos a trabajar utilizando **pull request**.
 
@@ -30,6 +30,8 @@ La forma de trabajar con Pull Request es la siguiente:
 <!-- Please describe in detail how you tested your changes or use screenshots -- 
 ```
 - Después de generar el PULL REQUEST, copia la URL y compartela en el canal de #support en Slack solitando code review por parte de los mentores, por ejemplo:
+
+![pull request slack](../img/pr-slack.png)
 
 - Una vez que te hagan observaciones da seguimiento a ellas y resuelvelas.
 - Cuando tengas la aprobación de por lo menos uno de los mentores podrás hacer merge
