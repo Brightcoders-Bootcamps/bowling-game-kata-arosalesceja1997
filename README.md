@@ -60,7 +60,6 @@ En sus valoraciones los mentores considaran los siguientes aspectos:
 - Tienes un máximo de 5 días para implementar el algortitmo de el Juego de Boliche
 - Durante el proceso de desarrollo debes mantener actualizado este repositorio
 - Lo harás en entregas parciales realizando PULL REQUESTS
- - Cada pull request debe incluir una funcionalidad
  - [Los commits deben ser significativos](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4)
  - [Cada Pull request asociado a una funcionalidad](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
  - Debes compartir en #support tus pull requests para que los mentores te hagan code review
