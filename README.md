@@ -38,7 +38,7 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 
 ## Entregable
 - Código fuente en Github
-  - Debe actualizar el archivo [setup.md]() en donde se describa el proceso para hacer funcionar el proyecto
+  - Debe actualizar el archivo [setup.md](pre-requisito/setup.md) en donde se describa el proceso para hacer funcionar el proyecto
   - Los commits de Git deben ser atómicos y significativos
   - Cada Pull request asociado a una funcionalidad
 
@@ -55,6 +55,10 @@ Antes de iniciar asegurate de leer los siguientes pre-requisitos:
 - Deberás incluir el linter RuboCop en tu proyecto
 - Debes utilizar Rubycritic y obtener por lo menos una puntuación de 95 en la carpeta de tu app y 75 en la de pruebas
 - NO es un examen sino un ejercicio por lo que puedes apoyarte en tus compañeros y mentores para recibir ayuda, así que si tienes dudas, pregunta, pregunta pregunta!
+
+## Setup
+
+En [este elnace](pre-requisito/setup.md) se describen los pasos necesarios para ejecutar/probar este proyecto.
 
 ## Enlaces
 - [One Pull Request. One Concern](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
