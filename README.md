@@ -5,11 +5,11 @@
 
 ## Pre-requisitos
 
-Antes de iniciar asegurate de leer los siguientes pre-requisitos:
+Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
 
-- [Pull request](pre-requisito/pull-request.md)
-- [Rubocop](pre-requisito/rubocop.md)
-- [Rubycritic](pre-requisito/rubycritic.md)
+- [Saber como trabajar haciendo Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
+- [Saber utilizar Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
+- [Saber utilizar RubyCritic](https://github.com/bright-coders/commons/tree/master/topics/rubycritic)
 
 ## Requerimientos funcionales
 ![Bowling score](img/bowling.png) 
