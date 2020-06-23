@@ -94,3 +94,7 @@ En [este elnace](pre-requisito/setup.md) se describen los pasos necesarios para 
 - [SOLID Object-Oriented Design Principles with Ruby Examples](https://rubygarage.org/blog/solid-principles-of-ood)
 - [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid)
 - [SOLID Principles](https://www.netguru.com/codestories/solid-principles-1-single-responsibility-principle) 
+### Code Review
+- [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+- [Code Review – Best Practices, Guidelines & Process Insights](https://www.ideamotive.co/blog/code-review-best-practices)
+- [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/)
