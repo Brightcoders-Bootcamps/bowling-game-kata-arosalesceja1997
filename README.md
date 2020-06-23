@@ -33,7 +33,7 @@ Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
 
 ## Tecnologías
 - Lenguaje de programación Ruby
-- Framework para pruebas [Rspec](https://rspec.info/)
+- Framework para pruebas [Rspec](https://rspec.info/) ó [Minitest](https://github.com/seattlerb/minitest)
 - Línea de comando
 
 ## Entregable
