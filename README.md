@@ -89,6 +89,7 @@ En [este elnace](pre-requisito/setup.md) se describen los pasos necesarios para 
 - [Rubocop](https://rubocop.org/)
 - [Rubycritic](https://github.com/whitesmith/rubycritic) 
 - [Rspec](https://rspec.info/)
+- [Minitest](https://github.com/seattlerb/minitest)
 ### Solid Principles
 - [SOLID Object-Oriented Design Principles with Ruby Examples](https://rubygarage.org/blog/solid-principles-of-ood)
 - [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid)
