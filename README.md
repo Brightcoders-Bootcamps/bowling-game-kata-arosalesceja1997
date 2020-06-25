@@ -20,7 +20,7 @@ Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
 ## Requerimientos no-funcionales
 - Calidad
   - Utilizar estilo de código definido por la comunidad (apoyarse en Rubocop)
-  - Pruebas unitarias
+  - Pruebas unitarias (TDD)
   - Puntuación en Rubycritic: por lo menos 95 en la carpeta de la App y por lo menos 75 en las pruebas
 - Ejecución
   - Puede ejecutarse desde la linea de comandos y mostrar la salida en consola- 
@@ -62,16 +62,13 @@ En sus valoraciones los mentores considaran los siguientes aspectos:
 6. Una vez que la solución funciona, haz un ejercicio de refactorización asegurandote que las pruebas sigan pasando
 7. Toma el siguiente feature o requerimiento y repite el proceso
 8. Una vez que termines informa a tu mentor, para que revise tu solución.
-9. 
+9. Deberásn atender las observaciones
+10. El ejercicio terminará una vez que tu mentor determninq que tu solución cumple con los requerimientos.
 
 ## Resumen 
 - Tienes un máximo de 5 días para implementar el algortitmo de el Juego de Boliche
 - Durante el proceso de desarrollo debes mantener actualizado este repositorio
-- Lo harás en entregas parciales realizando PULL REQUESTS
- - [Los commits deben ser significativos](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4)
- - [Cada Pull request asociado a una funcionalidad](https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1)
- - Debes compartir en #support tus pull requests para que los mentores te hagan code review
- - Se requiere por lo menos la aprobación de 1 mentor para hacer merge
+- Se requiere por lo menos la aprobación de 1 mentor
 - Incluir pruebas (TDD)
 - Deberás incluir el linter RuboCop en tu proyecto
 - Debes utilizar Rubycritic y obtener por lo menos una puntuación de 95 en la carpeta de tu app y 75 en la de pruebas
