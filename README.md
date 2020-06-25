@@ -6,8 +6,6 @@
 ## Pre-requisitos
 
 Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
-
-- [Saber como trabajar haciendo Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
 - [Saber utilizar Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
 - [Saber utilizar RubyCritic](https://github.com/bright-coders/commons/tree/master/topics/rubycritic)
 
@@ -40,8 +38,6 @@ Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
 - Código fuente en Github
   - Debe actualizar el archivo [setup.md](pre-requisito/setup.md) en donde se describa el proceso para hacer funcionar el proyecto
   - Los commits de Git deben ser atómicos y significativos
-  - Cada Pull request asociado a una funcionalidad
- 
   
 ## Evaluación / Revisión
 En sus valoraciones los mentores considaran los siguientes aspectos:
@@ -54,7 +50,7 @@ En sus valoraciones los mentores considaran los siguientes aspectos:
 - Claridad de la solución
 - Abstracción
 - Uso de características propias del lenguaje ruby
-- Uso de Git, commits bien definidos y atómicos, pull requests por funcionalidad
+- Uso de Git, commits bien definidos y atómicos
 - Puntuación obtenida en RubyCritic
 
 ## Flujo de trabajo sugerido
@@ -65,7 +61,8 @@ En sus valoraciones los mentores considaran los siguientes aspectos:
 5. En tu primer intento no te preocupes demasiado por lo elegante de tu solución sino por pasen todas las pruebas
 6. Una vez que la solución funciona, haz un ejercicio de refactorización asegurandote que las pruebas sigan pasando
 7. Toma el siguiente feature o requerimiento y repite el proceso
-8. No olvides hacer un [Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request) para cada funcionalidad implementada y compartirla en #support para que mentores y compañeros hagan code review
+8. Una vez que termines informa a tu mentor, para que revise tu solución.
+9. 
 
 ## Resumen 
 - Tienes un máximo de 5 días para implementar el algortitmo de el Juego de Boliche
