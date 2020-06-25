@@ -41,6 +41,7 @@ Antes de iniciar asegurate de cumplir con los siguientes pre-requisitos:
   - Debe actualizar el archivo [setup.md](pre-requisito/setup.md) en donde se describa el proceso para hacer funcionar el proyecto
   - Los commits de Git deben ser atómicos y significativos
   - Cada Pull request asociado a una funcionalidad
+ 
   
 ## Evaluación / Revisión
 En sus valoraciones los mentores considaran los siguientes aspectos:
@@ -55,6 +56,16 @@ En sus valoraciones los mentores considaran los siguientes aspectos:
 - Uso de características propias del lenguaje ruby
 - Uso de Git, commits bien definidos y atómicos, pull requests por funcionalidad
 - Puntuación obtenida en RubyCritic
+
+## Flujo de trabajo sugerido
+1. Este ejercicio de trabaja en formato de [Code Kata individual](https://github.com/bright-coders/commons/tree/master/topics/code-kata)
+2. Dedica tiempo a leer y entender los requerimientos funcionales
+3. Selecciona algún feature o requerimiento y escribe la(s) prueba(s) que debe pasar
+4. Codifica la solución para ese feature (si lo consideras necesario puedes cambiar el orden es decir primero codificar y después escribir la prueba)
+5. En tu primer intento no te preocupes demasiado por lo elegante de tu solución sino por pasen todas las pruebas
+6. Una vez que la solución funciona, haz un ejercicio de refactorización asegurandote que las pruebas sigan pasando
+7. Toma el siguiente feature o requerimiento y repite el proceso
+8. No olvides hacer un [Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request) para cada funcionalidad implementada y compartirla en #support para que mentores y compañeros hagan code review
 
 ## Resumen 
 - Tienes un máximo de 5 días para implementar el algortitmo de el Juego de Boliche
