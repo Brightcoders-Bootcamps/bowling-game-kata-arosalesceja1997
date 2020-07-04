@@ -2,22 +2,32 @@
 
 class GameBow
   def initialize
-    @longitud = 10
     @matrix = Array.new(2) { Array.new(10) { 0 } }
+
     @tiro = 0
+    @bandera = true
+    @cont = 0
   end
 
   def llenar_game_random
     (0...2).each do |i|
       (0...10).each do |j|
-        validation(i, j)
+        # validation(i, j)
+        llenando_val(i, j)
       end
     end
   end
 
-  def validation(_i, _j)
-    @tiro = rand(11)
-    @matrix[_i][_j] = @tiro if @tiro == 10
+  def llenando_val(i, j)
+    if @cont == 2
+      @tiro = 0
+      @cont = 0
+    end
+
+    # entra
+    @tiro = rand(11 - @tiro)
+    @matrix[i][j] = @tiro
+    @cont += 1
   end
 
   def draw_game
